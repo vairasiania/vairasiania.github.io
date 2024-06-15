@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vairasiania.github.io/sitemap
+Sitemap: https://vairasiania.github.io/app/sitemap
+Sitemap: https://vairasiania.github.io/assets/sitemap
+Sitemap: https://vairasiania.github.io/css/sitemap
+Sitemap: https://vairasiania.github.io/includes/sitemap
+Sitemap: https://vairasiania.github.io/item/sitemap
+Sitemap: https://vairasiania.github.io/src/sitemap
